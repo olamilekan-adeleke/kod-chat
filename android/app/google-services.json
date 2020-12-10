@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267830081154",
+    "firebase_url": "https://kod-chat-ca04b.firebaseio.com",
+    "project_id": "kod-chat-ca04b",
+    "storage_bucket": "kod-chat-ca04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267830081154:android:9187bf1cbd535934ab669b",
+        "android_client_info": {
+          "package_name": "com.example.kodchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267830081154-ek83mha7d4r3bvj19f4e6ea03rfdahuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHANbPwabCTPbQ3JpeIdqxBAQpvFim8R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267830081154-ek83mha7d4r3bvj19f4e6ea03rfdahuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
